@@ -1,6 +1,6 @@
 # Lost Phone
 
-> Some answers are hidden in the past, Whose website theme did we “cyberange.io” used when we first went public.
+> I lost my phone, this is the last tower id \nMCC: 404\nMNC: 56\nLAC: 391\nCID: 64284 \nit sent to my server, could you tell the location ? flag{x,y} up to 2 decimal places".
 
 Search for the cell ID using [this site](https://www.opencellid.org/) with the given information.
 
